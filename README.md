@@ -5,7 +5,19 @@ https://github.com/Tircown/ERCF-easy-brd
 
 XIAO または XIAO RP2040が使用可能です。
 
-ピンアウトは以下の通りです。
+部品表
+|基板上表示|名称|数|定数|参考|
+|---------|----|--|----|---|
+|C1,C2|積層セラミックコンデンサ|2|0.1μF 50v|https://akizukidenshi.com/catalog/g/gP-13582/|
+|C3,C4|電解コンデンサ|2|100μF 50v|https://akizukidenshi.com/catalog/g/gP-06726/|
+|J2,J3|XHコネクタ|2|3P|https://akizukidenshi.com/catalog/g/gC-12248/|
+|J5|ターミナルブロック|1||https://akizukidenshi.com/catalog/g/gP-01306/|
+|J7,J8|XHコネクタ|2|4P|https://akizukidenshi.com/catalog/g/gC-12249/|
+|R1,R2,R3,R4,R6,R8|抵抗|6|10kΩ|https://akizukidenshi.com/catalog/g/gR-25103/|
+|R5,R7|抵抗|2|100Ω|https://akizukidenshi.com/catalog/g/gR-25101/|
+|U1|MCUボード|1|XIAO or XIAO RP2040|https://akizukidenshi.com/catalog/g/gM-17044/|
+
+ピンアウト
 
 A Motor
 |Function|XIAO|XIAO RP2040|
