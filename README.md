@@ -31,7 +31,7 @@ A Motor
 B Motor
 |Function|XIAO|XIAO RP2040|
 |--------|----|-----------|
-|EN|PA2|gpio29|
+|EN|PA11|gpio29|
 |STEP|PA7|gpio2|
 |DIR|PB9|gpio1|
 |UART|PB8|gpio0|
